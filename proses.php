@@ -7,7 +7,7 @@
         <header>
             <div class="container">
                 <div id="branding">
-                    <h1><span>OlShop</span> Kelompok 3</h1>
+                    <h1><span>OlShop</span> PT INTI</h1>
                 </div>
                 <nav>
                     <ul>
@@ -112,7 +112,7 @@ if($namabarang=='baju'){
             </fieldset>
         </main>
         <footer>
-            <p>&copy; Copyright - OlShop_XIRPL3 2018 | Alright reserved.</p>
+            <p>&copy; Copyright - PT INTI 2018 | Alright reserved.</p>
         </footer>
     </body>
 </html>

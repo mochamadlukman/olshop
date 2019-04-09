@@ -7,7 +7,7 @@
         <header>
             <div class="container">
                 <div id="branding">
-                    <h1><span>OlShop</span> Kelompok 3</h1>
+                    <h1><span>OlShop</span> PT INTI </h1>
                 </div>
                 <nav>
                     <ul>
@@ -17,7 +17,7 @@
             </div>
         </header>
         <section class="drak">
-            <h3>Nama Pelayan : Oki Prianto</h3>
+            <h3>Nama Pelayan : PT INTI</h3>
         </section>
         <form method="post" action="proses.php" class="container">
             <fieldset>
@@ -60,7 +60,7 @@
                         <td><input type="text" name="jumlah" min="0" maxlength="2" required></td>
                     </tr>
                     <tr>
-                        <td><input type="hidden" name="pelayan" value="Oki Prianto">
+                        <td><input type="hidden" name="pelayan" value="PT INTI">
                             <input type="submit" name="pesan" value="Pesan" class="button_1"> 
                             <input type="reset" name="batal" value="Batal" class="button_1"></td>
                     </tr>
@@ -84,7 +84,7 @@
             </table>
         </section>
         <footer>
-            <p>&copy; Copyright - OlShop_XIRPL3 2018 | Alright reserved.</p>
+            <p>&copy; Copyright - PT INTI 2018 | Alright reserved.</p>
         </footer>
     </body>
 </html>
